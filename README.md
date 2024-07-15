@@ -2,11 +2,11 @@
 Cutomtkinter widgets that I made
 
 <b>CTkInputPopup</b>
-Is basically CTkInput dialog but I like it more in the way that I made it.
+<p>Is basically CTkInput dialog but I like it more in the way that I made it.</p>
 
 <b>CTkArrowOpeningMenu </b>
-Is a menu that opens when clicking on the little arrow icon, to put elements in it you
-can't just use CTkArrowOpeningMenu as master but CTkArrowOpeningMenu.widgetsFrame.
+<p>Is a menu that opens when clicking on the little arrow icon, to put elements in it you
+can't just use CTkArrowOpeningMenu as master but CTkArrowOpeningMenu.widgetsFrame.</p>
 
 <b>CTkFloatingMenu</b>
-Little floating menu that stays always on top, add a button with the "add_option" function.
+<p>Little floating menu that stays always on top, add a button with the "add_option" function.</p>
